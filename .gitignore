@@ -1,0 +1,6 @@
+run/
+.idea/
+.vs/
+server/stump.server.worldserver/packages/*
+server/stump.server.worldserver/bin/*
+server/stump.server.worldserver/obj/*

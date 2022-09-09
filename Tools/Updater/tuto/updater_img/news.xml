@@ -1,0 +1,14 @@
+<configuration>
+	<news id="0">
+		<title>UN ANKALIKE COMME VOUS N'AVEZ JAMAIS VU !</title>
+		<content>Ilyzaelle est fidèle à l'officiel et fait de son mieux pour vous offrir un gameplay agréable.</content>
+	</news>
+	<news id="1">
+		<title>UN SERVEUR D'EXCEPTION</title>
+		<content>Nous vous garantissons un développement constant du serveur !</content>
+	</news>
+	<news id="2">
+		<title>UN STAFF A L'ÉCOUTE DE SA COMMUNAUTÉ</title>
+		<content>Ilyzaelle s'engage à répondre à vos besoin dans toutes circonstances</content>
+	</news>
+</configuration>

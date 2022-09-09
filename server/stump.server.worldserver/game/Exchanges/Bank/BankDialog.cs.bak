@@ -1,0 +1,73 @@
+﻿using Stump.DofusProtocol.Enums;
+using Stump.Server.WorldServer.Game.Actors.RolePlay.Characters;
+using Stump.Server.WorldServer.Handlers.Inventory;
+
+namespace Stump.Server.WorldServer.Game.Exchanges.Bank
+{
+    public class BankDialog : IExchange
+    {
+        public BankDialog(Character character)
+        {
+            Customer = new BankCustomer(character, this);
+        }
+
+        public Character Character => Customer.Character;
+
+        public BankCustomer Customer
+        {
+            get;
+            set;
+        }
+
+        public ExchangeTypeEnum ExchangeType => ExchangeTypeEnum.BANK;
+
+        public DialogTypeEnum DialogType => DialogTypeEnum.DIALOG_EXCHANGE;
+
+        public void Open()
+        {
+            
+            ulong kamas = Character.Inventory.Kamas;
+            ulong stackcountkamas = (ulong)(Character.Bank.Count * 4);
+
+            if (kamas >= stackcountkamas)
+            {
+                Character.SendServerMessage("Has abierto el banco, has perdido " + stackcountkamas + " kamas.");
+                Character.Inventory.SubKamas(stackcountkamas);
+                InventoryHandler.SendExchangeStartedWithStorageMessage(Character.Client, ExchangeType, int.MaxValue);
+                InventoryHandler.SendStorageInventoryContentMessage(Character.Client, Customer.Character.Bank);
+                Character.SetDialoger(Customer);
+            }
+            else
+            {
+                Character.SendServerMessage("No tiene suficientes kamas para abrir el banco. Kamas necesarias : " + stackcountkamas);
+            }
+        }
+
+        public void OpenGremio(Character miembro, Character banco)
+        {
+            Customer = new BankCustomer(banco, this);
+            ulong kamas = miembro.Inventory.Kamas;
+            ulong stackcountkamas = (ulong)(miembro.Bank.Count * 4);
+
+            if (kamas >= stackcountkamas)
+            {
+                miembro.SendServerMessage("Has abierto el banco, has perdido " + stackcountkamas + " kamas.");
+                miembro.Inventory.SubKamas(stackcountkamas);
+                InventoryHandler.SendExchangeStartedWithStorageMessage(miembro.Client, ExchangeType, int.MaxValue);
+                InventoryHandler.SendStorageInventoryContentMessage(miembro.Client, Customer.Character.Bank);
+                miembro.SetDialoger(Customer);
+            }
+            else
+            {
+                Character.SendServerMessage("No tiene suficientes kamas para abrir el banco. Kamas necesarias : " + stackcountkamas);
+            }
+            
+        }
+
+        public void Close()
+        {
+            InventoryHandler.SendExchangeLeaveMessage(Character.Client, DialogType, false);
+            Character.ResetDialog();
+        }
+    }
+}

@@ -1,0 +1,382 @@
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\W0dm4\Dropbox\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\isaqu\Desktop\(ID - ITEMS)\[AZOTE] - V.0.0.1\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\[FILES]\[KARLAYON]\[EMULADOR]\[BACKUP(03-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\[BACKUP(12-06-2017)]\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\dofusprotocol\enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Isaque\Desktop\Emu\[KARLAYON]\[EMULADOR]\emu\[EMULADOR]\Azote\Stump 2.40\Erosis 2.42\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Erosis\new server\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+E:\Erosis\new server\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Erosis\new server\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+E:\Erosis\new server\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+E:\Erosis\new server\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+E:\Erosis\new server\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\pc startklaar\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur\Desktop\calistya\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+D:\Ankado V2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\Ankado V2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\Ankado V2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+D:\Ankado V2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+D:\Ankado V2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+D:\Ankado V2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+D:\Ankado V2\ZOWA\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\Ankado V2\ZOWA\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\Ankado V2\ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+D:\Ankado V2\ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+D:\Ankado V2\ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+D:\Ankado V2\ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur\Desktop\EMU ZOWA\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur\Desktop\EMU ZOWA\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrateur\Desktop\EMU ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\EMU ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\EMU ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrateur\Desktop\EMU ZOWA\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Nexeption\Desktop\Émulateur opale\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Nexeption\Desktop\Émulateur opale\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Nexeption\Desktop\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Nexeption\Desktop\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Nexeption\Desktop\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Nexeption\Desktop\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale - copia\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale - copia\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Émulateur opale - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47 - copia\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47 - copia\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47 - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47 - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47 - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+G:\Documentos ssd\MEGAsync Downloads\Emu nexeption\Emulador Ilyzaelle 2.47 - copia\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Ankacore v1.6\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Emulador ilyzaelle v2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Emulador ilyzaelle v2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v2\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v2\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v4\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v4\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v4\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v4\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v4\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle v4\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Axcel\Documents\MEGAsync Downloads\Nueva carpeta\Emulador ilyzaelle 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\vincentpoirier\Desktop\dofus\2.51\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Decay 2.51 - Final - Copie - Copie\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Ordinateur\Desktop\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Populus 2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\vince\OneDrive\Bureau\Code\dofus\2.51\Nyawayn\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\UnCuento\Desktop\Desarrollo\inquisitionquest\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Jose Soto (Axcel)\Documents\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.AssemblyReference.cache
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+D:\INFORMACION PC JOSE SOTO 12-06-2021\DOCUMENTOS\MEGAsync Downloads\RARO\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\UnCuento\Desktop\aaaaaaaa\INQUISITION2.51\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csprojAssemblyReference.cache
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\UnCuento\Desktop\INQUISITION\Emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.AssemblyReference.cache
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\unmis\Desktop\Inquisition\Emu\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\Administrator\Desktop\Emulador\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.AssemblyReference.cache
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\unmis\Desktop\Copia\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Stump.DofusProtocol.Enums.pdb
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.dll
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.pdb
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\Google.Protobuf.xml
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.AssemblyReference.cache
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CoreCompileInputs.cache
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.csproj.CopyComplete
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.dll
+C:\Users\unmis\Desktop\VersionOriginal\Ultimaversion\Ultimaversion\emulador\DofusProtocol\Enums\obj\Debug\Stump.DofusProtocol.Enums.pdb

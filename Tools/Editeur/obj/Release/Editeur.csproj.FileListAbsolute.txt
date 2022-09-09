@@ -1,0 +1,7 @@
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\bin\Release\Editeur.exe.config
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\obj\Release\Editeur.csprojResolveAssemblyReference.cache
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\obj\Release\Editeur.EditionItem.resources
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\obj\Release\Editeur.EditionPanoplie.resources
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\obj\Release\Editeur.Form1.resources
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\obj\Release\Editeur.Properties.Resources.resources
+C:\Users\oussa\Desktop\Emulateur Abboud\Editeur\obj\Release\Editeur.csproj.GenerateResource.Cache

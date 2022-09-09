@@ -1,0 +1,19 @@
+Configurer la config du logiciel dans les sources
+
+Compiler
+
+// VPS :
+Créer un dossier upl a distance sur le serveur web (ex : dossier www de wamp ou htdocs de xampp)
+
+mettre le client complet dans un dossier dofus que l'on place dans le dossier upl
+
+lancer file list maker dans les tools pr generer la liste des fichiers du client
+et placer le xml generer que vous renomerez client.xml dans le dossier upl
+
+Placer dans le dossier upl le dossier updater_img présent dans ce repertoire
+et aussi le Updater.version
+
+Le Screenshot est là uniquement pr vous montrer la tronche du dossier sur le vps
+
+
+envoyer le .exe et ArkanSound.dll aux joueurs
