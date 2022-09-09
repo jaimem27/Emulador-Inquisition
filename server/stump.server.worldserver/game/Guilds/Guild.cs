@@ -309,6 +309,28 @@ namespace Stump.Server.WorldServer.Game.Guilds
             }
         }
 
+        public int BankInUse
+        {
+            get;
+            set;
+        }
+
+        public string BankInUseBy
+        {
+            get;
+            set;
+        }
+
+        public ulong BankKamas
+        {
+            get { return Record.BankKamas; }
+            set
+            {
+                Record.BankKamas = value;
+                IsDirty = true;
+            }
+        }
+
         public ReadOnlyCollection<Paddock> Paddocks => m_paddocks.AsReadOnly();
 
         public bool IsDirty

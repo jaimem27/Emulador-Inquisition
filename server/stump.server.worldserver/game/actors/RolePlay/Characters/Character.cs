@@ -5188,6 +5188,13 @@ namespace Stump.Server.WorldServer.Game.Actors.RolePlay.Characters
             private set;
         }
 
+        public GuildBank GuildBank
+        {
+            get;
+            private set;
+
+        }
+
         #endregion Bank
 
         #region Drop Items
@@ -5533,6 +5540,7 @@ namespace Stump.Server.WorldServer.Game.Actors.RolePlay.Characters
                     {
                         Inventory.Save(database, false);
                         Bank.Save(database);
+                        
                         MerchantBag.Save(database);
                         Spells.Save();
                         Shortcuts.Save();
@@ -5550,6 +5558,11 @@ namespace Stump.Server.WorldServer.Game.Actors.RolePlay.Characters
                         m_record.Direction = Direction;
 
                         m_record.RetomarMazmorra = RetomarMazmorra;
+                        if (this.HasEmote(EmotesEnum.EMOTE_GUILD))
+                        {
+                            if (Guild.BankInUse == 0)
+                                GuildBank.Save(database);
+                        }
 
                         if (!CustomStatsActivated)
                         {
@@ -5597,6 +5610,18 @@ namespace Stump.Server.WorldServer.Game.Actors.RolePlay.Characters
                 UnBlockAccount();
                 throw;
             }
+        }
+
+        public void ReloadBank()
+        {
+            //WorldServer.Instance.IOTaskPool.EnsureContext();
+            WorldServer.Instance.IOTaskPool.AddMessage(ReloadRecordBank);
+        }
+
+        public void ReloadRecordBank()
+        {
+            GuildBank = new GuildBank(this);
+            GuildBank.LoadRecord();
         }
 
         public void LoadRecord()
@@ -5659,6 +5684,9 @@ namespace Stump.Server.WorldServer.Game.Actors.RolePlay.Characters
                 if (this.Guild != null) {
                     Guild.SetAlliance (Singleton<AllianceManager>.Instance.TryGetAlliance (GuildMember.Guild.Record.AllianceId.HasValue ? GuildMember.Guild.Record.AllianceId.Value : 0));
                 }
+                    GuildBank = new GuildBank(this);
+                    GuildBank.LoadRecord();
+                
             } catch { }
 
             UpdateLook(false);

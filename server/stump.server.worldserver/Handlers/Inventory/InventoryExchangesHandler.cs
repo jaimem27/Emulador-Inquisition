@@ -789,6 +789,11 @@ namespace Stump.Server.WorldServer.Handlers.Inventory
                             ));
         }
 
+        public static void SendGuildStorageInventoryContentMessage(IPacketReceiver client, GuildBank bank)
+        {
+            client.Send(new StorageInventoryContentMessage(bank.Select(x => x.GetObjectItem()).ToArray(), (ulong)bank.Kamas));
+        }
+
         public static void SendExchangeStartedWithStorageMessage(IPacketReceiver client, ExchangeTypeEnum type, int storageMaxSlot)
         {
             client.Send(new ExchangeStartedWithStorageMessage((sbyte)type, (uint)storageMaxSlot));

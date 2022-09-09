@@ -57,6 +57,11 @@ namespace Stump.Server.WorldServer.Game.Items
         public List<PrismNpcItemRecord> FindPrismItems (int ownerId) {
             return Database.Fetch<PrismNpcItemRecord> (string.Format (PrismNpcItemRelator.FetchByOwner, ownerId));
         }
+
+        public List<GuildBankItemRecord> FindGuildBankItems(int guildid)
+        {
+            return Database.Fetch<GuildBankItemRecord>(string.Format(GuildBankItemRelator.FetchByOwner, guildid));
+        }
         #endregion
 
         public List<EffectBase> GenerateItemEffects(List<EffectBase> effects, bool max = false)
@@ -321,6 +326,27 @@ namespace Stump.Server.WorldServer.Game.Items
             };
 
             return new BankItem(character, record);
+        }
+
+        public GuildBankItem CreateGuildBankItem(int guildid, BasePlayerItem item, int amount)
+        {
+            if (amount < 0)
+                throw new ArgumentException("amount < 0", "amount");
+
+
+            var guid = GuildBankItemRecord.PopNextId();
+            var record = new GuildBankItemRecord // create the associated record
+            {
+                Id = guid,
+                OwnerGuildId = guildid,
+                Template = item.Template,
+                Stack = (uint)amount,
+                Effects = new List<EffectBase>(item.Effects),
+                IsNew = true
+            };
+
+            return new GuildBankItem(guildid, record);
+
         }
 
         public MountItem CreateMountItem(Character character, BasePlayerItem item, int amount)
@@ -660,6 +686,7 @@ namespace Stump.Server.WorldServer.Game.Items
         {
             return !m_livingObjects.TryGetValue(id, out var livingObjectRecord) ? null : livingObjectRecord;
         }
+
 
         #endregion
     }

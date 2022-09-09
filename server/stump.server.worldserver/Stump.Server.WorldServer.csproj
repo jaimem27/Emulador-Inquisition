@@ -549,6 +549,7 @@
     <Compile Include="Database\HavenBags\HavenBagRecord.cs" />
     <Compile Include="Database\HavenBags\HavenBagThemes.cs" />
     <Compile Include="Database\Items\Craft\CraftItemRecord.cs" />
+    <Compile Include="Database\Items\GuildBankItemRecord.cs" />
     <Compile Include="Database\Items\MountItemRecord.cs" />
     <Compile Include="Database\Items\PlayerPresetRecord.cs" />
     <Compile Include="Database\Items\Prism\PrismNpcItemRecord.cs" />
@@ -626,6 +627,7 @@
     <Compile Include="Database\Npcs\Replies\Dofus\Zanawobia\ZanaSiete.cs" />
     <Compile Include="Database\Npcs\Replies\Dofus\Zanawobia\ZanaTres.cs" />
     <Compile Include="Database\Npcs\Replies\DopeulsDiariosQuestReply.cs" />
+    <Compile Include="Database\Npcs\Replies\GuildBankReply.cs" />
     <Compile Include="Database\Npcs\Replies\Jesaispasquoimettre.cs" />
     <Compile Include="Database\Npcs\Replies\LlaveroReply.cs" />
     <Compile Include="Database\Npcs\Replies\LoseEnergia.cs" />
@@ -989,6 +991,8 @@
     <Compile Include="Game\Effects\Handlers\Spells\Move\Rollback.cs" />
     <Compile Include="Game\Effects\Handlers\Spells\Damage\DamageIntercept.cs" />
     <Compile Include="Game\Exchanges\Bank\BankCustomer.cs" />
+    <Compile Include="Game\Exchanges\Bank\GuildBankCustomer.cs" />
+    <Compile Include="Game\Exchanges\Bank\GuildBankDialog.cs" />
     <Compile Include="Game\Exchanges\BidHouse\BidHouseExchanger.cs" />
     <Compile Include="Game\Exchanges\BidHouse\BidHouseExchange.cs" />
     <Compile Include="Game\Exchanges\Craft\BaseCraftDialog.cs" />
@@ -1247,6 +1251,8 @@
     <Compile Include="Game\Items\Player\Custom\ItemTypeAttribute.cs" />
     <Compile Include="Game\Items\Player\Custom\LivingObjects\LivingObjectItem.cs" />
     <Compile Include="Game\Items\PersistantItem.cs" />
+    <Compile Include="Game\Items\Player\GuildBank.cs" />
+    <Compile Include="Game\Items\Player\GuildBankItem.cs" />
     <Compile Include="Game\Items\Player\MerchantBag.cs" />
     <Compile Include="Game\Items\Player\CharacterMerchantBag.cs" />
     <Compile Include="Game\Items\Player\MerchantItem.cs" />

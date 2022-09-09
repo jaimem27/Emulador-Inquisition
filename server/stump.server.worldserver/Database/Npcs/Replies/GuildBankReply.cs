@@ -18,19 +18,23 @@ namespace Stump.Server.WorldServer.Database.Npcs.Replies
 
         public override bool Execute(Npc npc, Character character)
         {
-
-            
-            ////Stump.Server.WorldServer.Game.World.Instance.
-
-            if (character.Map.Id == 85460483)
-            {
-                var bancoGremio = Stump.Server.WorldServer.Game.World.Instance.GetCharacter(195);
-                var dialog = new BankDialog(bancoGremio);
-                dialog.OpenGremio(character,bancoGremio);
+            if (!character.HasEmote(DofusProtocol.Enums.EmotesEnum.EMOTE_GUILD)){
+                character.SendServerMessage("No te has unido a ningun gremio");
+                return false;
             }
 
-            //new BankDialog(character).Open();
-            return true;
+            if (character.Guild.BankInUse == 0)
+            {
+                var banco = new GuildBankDialog(character);
+                banco.Open();
+                return true;
+            }
+            else
+            {
+                character.SendServerMessage("<b>[ERROR]</b> : El banco gremial de <b>" + character.Guild.Name + "</b> está siendo utilizado por <b>" + character.Guild.BankInUseBy + "</b>.");
+                return false;
+            }
+
         }
     }
 }

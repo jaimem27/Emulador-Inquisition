@@ -180,5 +180,11 @@ namespace Stump.Server.WorldServer.Database.Guilds
         }
 
         public int? AllianceId { get; set; }
+
+        public ulong BankKamas
+        {
+            get;
+            set;
+        }
     }
 }
