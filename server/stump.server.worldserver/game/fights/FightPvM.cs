@@ -25,6 +25,7 @@ using Stump.Server.WorldServer.Game.Alliances;
 using Stump.Server.WorldServer.Game.Guilds;
 using Stump.Server.WorldServer.Game.Achievements;
 using Stump.Core.Reflection;
+using Stump.Server.WorldServer.Game.Fights.Buffs;
 
 namespace Stump.Server.WorldServer.Game.Fights
 {

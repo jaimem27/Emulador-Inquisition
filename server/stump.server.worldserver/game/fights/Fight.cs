@@ -953,7 +953,7 @@ namespace Stump.Server.WorldServer.Game.Fights
                 }
             }
 
-            
+
             GenerateResults();
 
             ApplyResults();
@@ -1847,18 +1847,15 @@ namespace Stump.Server.WorldServer.Game.Fights
         {
 
             CharacterFighter player = me as CharacterFighter;
-            List<BasePlayerItem> items = player.Character.Inventory.GetEquipedItems().ToList();
+            //List<BasePlayerItem> items = player.Character.Inventory.GetEquipedItems().ToList();
 
-            //if (items.Any(x => x.Template.Id == 10685)) // test
-            //{
+            if (player.Character.BreedId == PlayableBreedEnum.Sram) // test
+            {
+                    //player.Character.SendServerMessage("Pasiva de Shinigami activa : Sram --- 100% de crit al atacar por la espalda");
+                    //Spell ex2 = new Spell(12679, 1);
+                    //me.CastAutoSpell(ex2, me.Cell);
 
-            //    if (TimeLine.RoundNumber == 1)
-            //    {
-            //        Spell exemple = new Spell(7331, 1);
-            //        me.CastAutoSpell(exemple, me.Cell);
-            //    }
-
-            //}
+            }
 
             //if (items.Any(x => x.Template.Id == 10686)) // test2
             //{

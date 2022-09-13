@@ -1383,6 +1383,7 @@
     <Compile Include="Game\Spells\Casts\Panda\Brancard.cs" />
     <Compile Include="Game\Spells\Casts\Panda\Cascade.cs" />
     <Compile Include="Game\Spells\Casts\Panda\Vertige.cs" />
+    <Compile Include="Game\Spells\Casts\Pasivas\Sram.cs" />
     <Compile Include="game\spells\Casts\Roublard\Remision.cs" />
     <Compile Include="Game\Spells\Casts\Roublard\WeighDown.cs" />
     <Compile Include="Game\Spells\Casts\Roublard\ExplosionCastHandler.cs" />

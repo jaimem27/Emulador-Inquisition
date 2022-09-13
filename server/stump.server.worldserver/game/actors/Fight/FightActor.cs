@@ -2054,7 +2054,7 @@ namespace Stump.Server.WorldServer.Game.Actors.Fight
                    spellLevel.Effects.Any(entry => entry.EffectId == EffectsEnum.Effect_Summon) || // summons
                    spell.Template.Id == (int)SpellIdEnum.DOUBLE_74 || // double
                    spell.Template.Id == (int)SpellIdEnum.PLOTTER || // conspirador
-                   //spell.Template.Id == (int)SpellIdEnum.CHAKRA_IMPULSE_75 || // chakra pulsion
+                                                                    //spell.Template.Id == (int)SpellIdEnum.CHAKRA_IMPULSE_75 || // chakra pulsion
                    spell.Template.Id == (int)SpellIdEnum.CHAKRA_CONCENTRATION_62 || // chakra concentration
                    spell.Template.Id == (int)SpellIdEnum.TRICKY_TRAP_65 || // trampa solapada
                    spell.Template.Id == (int)SpellIdEnum.MIRY_TRAP_75 || // trampa fungosa
@@ -2083,11 +2083,30 @@ namespace Stump.Server.WorldServer.Game.Actors.Fight
                    spell.Template.Id == 9088 ||
                    spell.Template.Id == 9089 ||
                    spell.Template.Id == (int)SpellIdEnum.WEAPON_SKILL ||
-                   spell.Template.Id == 9793 || 
-                   spell.Template.Id == (int) SpellIdEnum.EBONY_DOFUSTARGETING_ ||
-                   spell.Template.Id == (int) SpellIdEnum.EBONY_DOFUSCHOICE_OF_TARGET_ ||
-                   spell.Template.Id == (int) SpellIdEnum.EBONY_DOFUSCHOSEN_TARGET_OK_ ||
-                   spell.Template.Id == (int) SpellIdEnum.EBONY_DOFUS_11473; // ebano 
+                   spell.Template.Id == 9793 ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSTARGETING_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSCHOICE_OF_TARGET_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSCHOSEN_TARGET_OK_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUS_11473 ||// ebano 
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSCHOICE_OF_TARGET_ ||
+                   spell.Template.Id == (int)SpellIdEnum.NEW_EBONY_DOFUS_SPELL_A ||
+                   spell.Template.Id == (int)SpellIdEnum.NEW_EBONY_DOFUS_SPELL_B ||
+                   spell.Template.Id == (int)SpellIdEnum.EDTARGETING_REAPPLICATION_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSCHOSEN_TARGET_OK_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUS_11473 ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSBONUS_PER_CHARGE_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUS_11507 ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSAIR_POISON_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSFIRE_POISON_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSWATER_POISON_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSEARTH_POISON_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSNEUTRAL_POISON_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSCLOSE_COMBAT_RANGED_COUNTER_BLOCKING_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSCAST_POISON_FROM_CASTER_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSEFFECT_DEBUFF_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSAPPLIES_CASTER_S_ATTACK_ELEMENT_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSRANGED_COUNTER_MANAGEMENT_ ||
+                   spell.Template.Id == (int)SpellIdEnum.EBONY_DOFUSPOISONS_;
         }
 
         public bool IsInvisibleSpellDofusCast(Spell spell)

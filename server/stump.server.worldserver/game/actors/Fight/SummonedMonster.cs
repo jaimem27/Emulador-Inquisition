@@ -33,7 +33,7 @@ namespace Stump.Server.WorldServer.Game.Actors.Fight
         {
             if (Summoner.Level <= 200)
             {
-                m_stats.Health.Base = (short)(Monster.LifePoints * ((Summoner.Level) / 100d));
+                m_stats.Health.Base = (short)(Monster.LifePoints * ((Summoner.Level) / 100d) * 2);
 
                 #region Int Monsters
                 //  Dragão )
