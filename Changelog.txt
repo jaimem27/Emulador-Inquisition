@@ -1,0 +1,46 @@
+Hechizos 99% (durante el tiempo que he tenido el servidor on no ha habido reportes sobre ellos)
+Invocaciones remoledadas para ganar stats correctamente
+Llavero (cada 7 dias)
+Retormar Mazmorrra (pócima del inventario)
+Almanax
+SeBusca
+Cofre del tesoro
+Torre de 100 pisos para obtener legendarios
+Pepitas en territorio conquistado
+VIP
+Todas las mazmorras arregladas (tp a party + llave + llavero), laberintos funcionales al original, 90% de las mazmorras con su mecanica original
+Contenido PvP tanto de caza y 1v1
+Eventos de nawidad y Verano (grasmera)
+Misiones de dofus hasta el turquesa
+Misiones diarias de dopeuls
+Compañeros
+Logros
+Idolos
+Protectores de los recursos
+Alas activadas 25% de EXP y Drop
+Luchar en territorio conquistado de tu alianza 35% de Bonus EXP y Drop
+Tienda vip
+NPC de cambio de kamas por ogrinas y viceversa
+Mansiones de Koalas y Frigost arregladas para utilizarlas como "bases" en eventos gremiales (tp mediante pocima)
+Pocimas de tp prismas, salteadorillos, diligencias y perforadoras (alquimista craft)
+FM (pocimas de cambio de elemento, runas normales y blancas, orbes, runa de firma)
+Anomalias (mediante npc)
+Misiones de artefacto (aun no hay misiones pero esta todo implementado respecto al artefacto)
+Añadido 6 efectos distintos :
+
+Artefacto del Viajero      -> 15 huida   | 5 esquiva PA/PM | 10 Crit         | 50 Stas | 5 daños elementales   | 5 daños crit       | 1% Daño distancia        | 1% Daño hechizos       | 300 Inici | 1 PA 
+Artefacto del Valeroso     -> 15 huida   | 5 esquiva PA/PM | 10 Crit         | 50 Stas | 5 daños elementales   | 5 daños crit       | 1% Daño mele             | 1% Daño hechizos       | 300 Inici | 1 PA 
+Artefacto del Corazón      -> 15 huida   | 5 esquiva PA/PM | 20 Curas        | 50 Stas | 100 en vit            | 2 Invocacion       | 1% Resistencia distancia     | 1% Daño hechizos       | 1 Rango   | 1 PM 
+Artefacto del Majestuoso   -> 15 huida   | 5 esquiva PA/PM | 15 retira PA/PM | 50 Stas | 100 en vit            | 55 Sabiduria       | 7 crit                       | 1% Daño hechizos       | 1 Rango   | 1 PM 
+Artefacto del Rocoso       -> 15 placaje | 5 esquiva PA/PM | 200 vitalidad   | 50 Stat | 15 reenvio de daños   | 1% resitencia mele | 1% Resistencia distancia     | 1% resistencia hechizos| 3 resis % | 1 PM
+Artefacto del Tramposo     -> 15 huida   | 5 esquiva PA/PM | 100 sabiduria   | 50 Stat | 50 en pp              | 500 pods           | 7 crit                       | 1 Rango                | 1 PM      | 1 PA
+
+Banco de pago
+Los dragopavos/monturas solo pueden almacenar 15 items diferentes
+Pócima de aumento de XP (durnte 1 combate 40% de bonus en todos los rates)
+Captura de monturas con su mecanica (necesita hechizo y red de captura)
+Tienda de Pepitas, rosas del desierto, ogrinas, vip, almanax,dopolones, anomalias y varias como en el taller de alquimista para frascos
+Efectos legendarios de las pets funcionales (reflejo onirico + poti)
+Piedras de alma llenas (las de 1.29) funcionales + hechizo de captura de alma
+Reloj de xelorium para moverse 
+Los logros son visuales en cada sala final de las mazmorras (solo el nombre de los logros)
